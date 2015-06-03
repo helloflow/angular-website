@@ -1,0 +1,22 @@
+{"stories":[
+    {"id":1, "title":"Doe", "image":"1.jpg"}, 
+    {"id":2, "title":"Smith", "image":"2.jpg"},
+    {"id":3, "title":"Jones", "image": "3.jpg"},
+    {"id":4, "title":"Cas", "image": "4.jpg"},
+    {"id":5, "title":"Flow", "image": "5.jpg"},
+    {"id":6, "title":"Jules", "image": "6.jpg"},
+    {"id":7, "title":"Elly", "image": "7.jpg"},
+    {"id":8, "title":"Karin", "image": "8.jpg"},
+    {"id":9, "title":"Peter", "image": "9.jpg"},
+    {"id":10, "title":"Micha", "image": "10.jpg"},
+    {"id":11, "title":"Ed", "image": "11.jpg"},
+    {"id":12, "title":"Guus", "image": "12.jpg"},
+    {"id":13, "title":"Mauk", "image": "13.jpg"},
+    {"id":14, "title":"Rijk", "image": "14.jpg"},
+    {"id":15, "title":"Peer", "image": "15.jpg"},
+    {"id":16, "title":"Lucas", "image": "16.jpg"},
+    {"id":17, "title":"Ajax", "image": "17.jpg"},
+    {"id":18, "title":"Robert", "image": "18.jpg"},
+    {"id":19, "title":"Daan", "image": "19.jpg"},
+    {"id":20, "title":"Erik", "image": "20.jpg"}
+]}
